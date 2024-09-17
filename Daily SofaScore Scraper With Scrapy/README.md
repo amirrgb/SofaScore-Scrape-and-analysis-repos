@@ -1,0 +1,2 @@
+# daily-football-scraper
+This Scrapy project uses multiple spiders to scrape data from Sofascore on a daily basis, completing the data collection process from the last scrape and storing the collected data in JSON handler files. The data is then processed and converted into structured SQL format for further analysis and insights. This approach enables efficient and automated data collection and management, streamlining the data analysis process.
