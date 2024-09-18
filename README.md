@@ -1,2 +1,2 @@
 # sofaProject
- scraping and analyzing data from sofascore
+ Scraping and Analyzing Football data from sofascore.com
